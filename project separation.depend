@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1686756271 source:c:\users\user\onedrive\documents\project separation\banking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banking.h"
+	"book.h"
+
+1686326259 c:\users\user\onedrive\documents\project separation\banking.h
+
+1686756142 source:c:\users\user\onedrive\documents\project separation\main.c
+	<stdio.h>
+	"banking.h"
+
+1686755640 source:c:\users\user\onedrive\documents\project separation\book.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"book.h"
+
+1686747691 c:\users\user\onedrive\documents\project separation\book.h
+
