@@ -1,5 +1,5 @@
-#ifndef BANKING_H
-#define BANKING_H
+#ifndef LOGINXBANKING_H
+#define LOGINXBANKING_H
 
 void saveAccountsToFile();
 void loadAccountsFromFile();
