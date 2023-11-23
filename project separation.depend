@@ -8,10 +8,12 @@
 
 1686845408 c:\users\user\onedrive\documents\project separation\banking.h
 
-1686845477 source:c:\users\user\onedrive\documents\project separation\main.c
+1688317657 source:c:\users\user\onedrive\documents\project separation\main.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
+	<unistd.h>
+	<dos.h>
 	"loginxbanking.h"
 
 1686755640 source:c:\users\user\onedrive\documents\project separation\book.c
@@ -25,4 +27,11 @@
 1686840695 c:\users\user\onedrive\documents\project separation\logxbanking.h
 
 1686845477 c:\users\user\onedrive\documents\project separation\loginxbanking.h
+
+1688317310 source:c:\users\user\onedrive\documents\project separation\loginxbanking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"loginxbanking.h"
+	"book.h"
 

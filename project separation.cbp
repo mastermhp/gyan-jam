@@ -31,14 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="banking.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="banking.h" />
 		<Unit filename="book.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="book.h" />
+		<Unit filename="loginxbanking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="loginxbanking.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

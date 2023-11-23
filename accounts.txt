@@ -1,3 +1,3 @@
-mehedi hasan parash;neeha@gmail.com;badda, dhaka;01710647913;0000;2900.000000
-zahin ahmed neeha;parash@gmail.com;matuail, dhaka;01861341902;1111;2050.000000
+mehedi hasan parash;neeha@gmail.com;badda, dhaka;01710647913;0000;900.000000
+zahin ahmed neeha;parash@gmail.com;matuail, dhaka;01861341902;1111;4250.000000
 radiya mehzabien;putul@gmail.com;matuail, dhaka;01716012075;2222;1500.000000
